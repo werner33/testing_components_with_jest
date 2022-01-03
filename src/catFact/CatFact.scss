@@ -1,0 +1,16 @@
+.catFact {
+    width: 300px;
+    margin: 0 auto;
+    border: 1px solid navy;
+    padding: 20px;
+
+    &__textContainer {
+        min-height: 100px;
+    }
+
+    &__button {
+        border: 1px solid navy;
+        border-radius: 5px;
+        padding: 10px;
+    }
+}
