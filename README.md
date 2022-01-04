@@ -1,6 +1,6 @@
 # Testing Components with Jest and Testing Library
 
-This is a simple application with three components. Each component has a test suite. This is Section 4 of the [Advanced Basics for Web](https://github.com/werner33/AdvancedBasicsForWeb)course. 
+This is a simple application with three components. Each component has a test suite. This is Section 4 of the [Advanced Basics for Web](https://github.com/werner33/AdvancedBasicsForWeb) course. 
 
 This is an image to show what the application looks like when running: 
 
